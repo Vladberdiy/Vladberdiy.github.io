@@ -1,0 +1,210 @@
+body{
+    background-color: white;
+    padding: 40px;
+    font-family: Montserrat;
+}
+.wrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    background: #fff;
+    margin: 0  auto;
+}
+
+
+
+
+/*Sidebar*/
+.sidebar{
+    background-color: #E0EAFE;
+    width: 370px;
+
+}
+.img_avatar{
+    width: 100%;
+    padding-top: 40px;
+}
+
+.contacts-cont,
+.soft-skills_cont,
+.tech-skills_cont{
+    margin: 48px 0 0 40px;
+}
+
+.sidebar_title{
+    color: #161D2A;
+    font-size: 22px;
+    font-family: Montserrat;
+    font-style: normal;
+
+}
+
+.cont-span{
+    color: #161D2A;
+    font-size: 14px;
+    font-family: Montserrat;
+    font-style: normal;
+}
+
+.cont_item{
+    margin: 0;
+}
+
+.soft-skills-list,
+.skills-list{
+    margin: 0;
+    padding-left: 20px;
+}
+
+.soft-skills-item,
+.skills-list-item{
+    color: #6D9BF5;
+}
+
+
+.soft-skills-text,
+.skills-list-text{
+    color: #161D2A;
+    font-size: 14px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+
+
+/*Main Info*/
+.MainInfo{
+    padding: 88px 88px 88px 88px;
+}
+
+.main_title{
+    color: #000;
+    font-size: 22px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+}
+/*Projects*/
+.project-div{
+    margin-top: 64px;
+    margin-bottom: 90px;
+}
+.progects{
+    color: #000;
+    font-size: 14px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+}
+.progects-item{
+    width: 163.907px;
+    height: 48px;
+    flex-shrink: 0;
+}
+.progects-text{
+    color: #595959;
+    font-size: 14px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+/*Profecion*/
+.profecion{
+    padding-bottom: 18px;
+    color: #000;
+    font-size: 14px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 17px;
+}
+
+.Name{
+    color: #000;
+    font-size: 45px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 55px;
+}
+/*About me*/
+.about-me-text{
+    color: #595959;
+    font-size: 14px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+/*work exp*/
+.work-exp{
+    margin-top: 51px;
+    margin-bottom: 16px;
+}
+.prof-name{
+    color: #000;
+    font-size: 16px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20px;
+}
+
+.work-text,
+.freelance{
+    color: #6D9BF5;
+}
+
+.title-work{
+    color: #000;
+    font-size: 16px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.date{
+    color: #A8A8A8;
+    font-size: 12px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px;
+}
+
+.work-item{
+    color: #595959;
+    font-size: 14px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 24px;
+    padding: 12px;
+}
+
+.Eduction-text{
+    color: #6D9BF5;
+    font-size: 16px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.Eduction-text-2{
+    color: #000;
+    font-size: 14px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.Eduction-div{
+    margin: 0 0 12px 0
+}
